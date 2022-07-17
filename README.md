@@ -31,7 +31,7 @@ Users Should be able to:
 
 * Desktop-Preview
 
-![Desktop-View]https://user-images.githubusercontent.com/103952813/179388513-5ecff814-4ff8-4753-a4e1-759e40bd3d60.jpg)
+![Desktop-View](https://user-images.githubusercontent.com/103952813/179388513-5ecff814-4ff8-4753-a4e1-759e40bd3d60.jpg)
 
 * Mobile-Preview
 
