@@ -8,14 +8,14 @@ As most of my work, this solution is being coonstantly updated as i learn new th
 
 ## Table of Contents
 * Overview
-    * [The Challange](#the-challange)
-    * [Screenshot](#screenshot)
+    * [The Challange]()
+    * [Screenshot]()
     * [Links](https://github.com/Kapil56J/3-Column-Preview-Component/edit/main/README.md)
 
 * My Process
     * [Built with](#build-with)
-    * [Continued Devlopement](#continued-devlopement)
-* [Author](#autor)
+    * [Continued Devlopement]()
+* [Author]()
 ## Overview
 
 * The Challange
